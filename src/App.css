@@ -1,0 +1,25 @@
+.navbar{
+    height: 10vh !important;
+    
+}
+.nav1{
+    color: #1B2774 !important;
+}
+
+.main{
+    height: 90vh !important;
+}
+.home
+{
+    background-image: url("https://static.wixstatic.com/media/11062b_cc0d7d210e5b47e68fa18e65689136bd~mv2.jpeg/v1/fill/w_1898,h_1407,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_cc0d7d210e5b47e68fa18e65689136bd~mv2.jpeg");
+    background-position: top;
+    background-size: cover;
+    flex-direction: column;
+}
+h1{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 100px !important;
+}
+
